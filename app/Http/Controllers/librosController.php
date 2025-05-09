@@ -41,4 +41,3 @@ class librosController extends Controller
         return $res;
     }
 }
-
